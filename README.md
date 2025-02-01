@@ -2,7 +2,7 @@
 
 🌱 I'm currently learning **Machine Learning, Deep Learning & Model Deployment**  
 🤝 I'm looking to collaborate on **Open Source & AI Projects**  
-👨‍💻 All of my projects are available on **[GitHub](https://github.com/dronaop)**  
+👨‍💻 All of my projects are available on **[GitHub](https://github.com/dronaop?tab=repositories)**  
 📫 How to reach me: **deepanshudrona@gmail.com**  
 🚀 I'm currently working on **End-to-End ML Deployment**  
 
